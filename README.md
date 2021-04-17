@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harvy Jia Wei Sim
+- 👋 Hi, I’m Harvy Jia Wei Sim, creator of PikaFoodAR
 - 👀 I’m passionate in providing best programming learning experience for everyone! 
 - 🌱 I’m currently learning to learn (and share the learning with everyone)
 - 💞️ I’m looking to collaborate on any small projects that make big impact! (Everything starts small!)
